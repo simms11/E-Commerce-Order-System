@@ -1,0 +1,12 @@
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/Main.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/discounts/Discount.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/discounts/FixedDiscount.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/discounts/PercentageDiscount.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/model/Admin.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/model/Customer.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/model/Order.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/model/OrderStatus.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/model/Product.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/model/User.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/service/InventoryService.java
+/Users/alsahidsimms/Desktop/repo/Ecommerce/src/main/java/ecommerce/service/OrderService.java
